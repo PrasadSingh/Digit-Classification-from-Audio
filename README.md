@@ -10,9 +10,6 @@ A fast, clean, and interpretable audio classification system that listens to spo
 ##  Repository Overview
 
 - `notebook.ipynb` — Full Colab-based pipeline.
-- `utils.py` — Modular helper functions for feature extraction and model handling.
-- `requirements.txt` — Dependencies: `numpy`, `pandas`, `librosa`, `scikit-learn`, `matplotlib`, `soundfile`.
-
 ---
 
 ##  Why It Stands Out
@@ -22,7 +19,7 @@ A fast, clean, and interpretable audio classification system that listens to spo
   - Uses **Logistic Regression**—lightweight, interpretable, and real-time friendly.
 
 - **Performance & Evaluation**  
-  - Test Accuracy: ~**XX%** (varying slightly by random seed split).  
+  - Test Accuracy: ~**89.63%** (varying slightly by random seed split).  
   - Evaluation supported by a **Confusion Matrix** for digit-level insights.
 
 - **Responsiveness**  
